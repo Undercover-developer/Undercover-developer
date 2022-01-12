@@ -5,16 +5,20 @@
 - I have 3 year+ experience in software engineering and development ⚡
 - I am currently learning about developing web3 and blockchain applications :rocket:
 - 🔭 I’m currently working on ideas around AR/VR, blockchain
-<br>
-<br>
-### connect with me :stuck_out_tongue_winking_eye:
+<br/>
+<br/>
+
+### connect with me 📫
+
 [<img align="left" alt="oyindamola0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="koleoso oyindamola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="iron_dami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/oyindamola0
 [instagram]: https://instagram.com/iron_dami
-[linkedin]: https://www.linkedin.com/in/oyindamola-koleoso-738251144/
+[linkedin]: https://www.linkedin.com/in/oyindamola-koleoso-738251144
+
+
 <!--
 **Undercover-developer/Undercover-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

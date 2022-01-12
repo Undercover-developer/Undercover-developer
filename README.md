@@ -2,7 +2,7 @@
 ## I'm a Fullstack Software engineer interested in working and collaborating on ground breaking, distruptive software solutions!
 
 - I have a background in Computer Science :v:
-- I have 3 year+ experience in software engineering and development ⚡
+- I have 3 years+ experience in software engineering and development ⚡
 - I am currently learning about developing web3 and blockchain applications :rocket:
 - 🔭 I’m currently working on ideas around AR/VR, blockchain 👨🏿‍💻
 

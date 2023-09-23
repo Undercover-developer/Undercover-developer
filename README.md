@@ -1,10 +1,7 @@
 ### Hi there, my name is Oyindamola👋
 ## I'm a Fullstack Software engineer interested in working and collaborating on ground breaking, disruptive software solutions!
 
-- I have a background in Computer Science :v:
-- I have 3 years+ experience in software engineering and development ⚡
-- I am currently learning about developing web3 and blockchain applications :rocket:
-- 🔭 I’m currently working on ideas around AR/VR, blockchain 👨🏿‍💻
+
 
 ### Languages, Frameworks and Tools
 <img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
